@@ -22,7 +22,7 @@ export class Display extends Component {
 
 
             <div>
-
+                <h1>test</h1>
                 <RaisedButton
                     label={"Add"}
                     onClick={onAddNewHobby.bind(this)}
